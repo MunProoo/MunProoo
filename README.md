@@ -1,6 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
-
+![header](https://capsule-render.vercel.app/api?type=Cylinder&text=MunProoo&color=000000&fontColor=ffffff&animation=fadeIn&fontAlignY=55)
 
 ## Resume   
 [MunProoo's Resume](https://thirsty-nerine-a05.notion.site/0aa602a2543a4d8c8d63dc30679eecfa?pvs=4)   
