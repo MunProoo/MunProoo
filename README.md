@@ -2,7 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=MunProoo&color=000000&fontColor=ffffff&animation=fadeIn&fontAlignY=55)
 
 ## Resume   
-[MunProoo's Resume](https://thirsty-nerine-a05.notion.site/0aa602a2543a4d8c8d63dc30679eecfa?pvs=4)   
+[My Resume](https://munprooo.netlify.app/)
+   
 
 ## PortFolio
 1. 쇼핑몰 [SpringProject](https://github.com/MunProoo/SpringProject)
