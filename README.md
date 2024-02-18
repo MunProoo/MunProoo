@@ -3,6 +3,9 @@
 
 ## Resume   
 [My Resume](https://munprooo.netlify.app/)
+
+## MyBlog
+[My Blog](https://munprooo.github.io/)
    
 
 ## PortFolio
