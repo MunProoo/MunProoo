@@ -5,8 +5,8 @@
 [My Resume](https://munprooo.netlify.app/)
 
 ## PortFolio
-1. 사내 RAG [RAG](https://github.com/MunProoo/RAG)
-2. WebRTC-Test [WebRTC-Test](https://github.com/MunProoo/WebRTC-Test)
+1. [RAG](https://github.com/MunProoo/RAG)
+2. [WebRTC-Test](https://github.com/MunProoo/WebRTC-Test)
 
 ## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
