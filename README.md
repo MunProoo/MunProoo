@@ -9,8 +9,7 @@
    
 
 ## PortFolio
-1. 쇼핑몰 [SpringProject](https://github.com/MunProoo/SpringProject)
-2. 업무관리 서비스 [BsmgRefactoring](https://github.com/MunProoo/bsmgRefactoring)
+1. 사내 RAG [RAG](https://github.com/MunProoo/RAG)
 
 ## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
