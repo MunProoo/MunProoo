@@ -2,9 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=MunProoo&color=000000&fontColor=ffffff&animation=fadeIn&fontAlignY=55)
 
 ## Resume   
-[My Resume](https://munprooo.netlify.app/)
+[어떤 사람인가?](https://munprooo.netlify.app/)
 
-## PortFolio
+## 개인 프로젝트
 1. [RAG](https://github.com/MunProoo/RAG)
 2. [WebRTC-Test](https://github.com/MunProoo/WebRTC-Test)
 
